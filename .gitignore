@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
+
+*.html
+**/*_cache/**
+**/*_files/**
+*.pdf
+.DS_Store
+.Rhistory
+*.tsv
+*.csv
+*.psv
+
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.zip
+*.xlsx
+*.xls
